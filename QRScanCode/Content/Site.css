@@ -59,3 +59,44 @@ textarea {
 .validation-summary-valid {
     display: none;
 }
+
+/* jssor slider direction navigator skin 20 css */
+/*
+.jssord20l              (normal)
+.jssord20r              (normal)
+.jssord20l:hover        (normal mouseover)
+.jssord20r:hover        (normal mouseover)
+.jssord20ldn            (mousedown)
+.jssord20rdn            (mousedown)
+*/
+.jssord20l, .jssord20r, .jssord20ldn, .jssord20rdn {
+    position: absolute;
+    cursor: pointer;
+    display: block;
+    background: url(/Jssor/img/d02.png) no-repeat;
+    overflow: hidden;
+}
+
+.jssord20l {
+    background-position: -3px -33px;
+}
+
+.jssord20r {
+    background-position: -63px -33px;
+}
+
+.jssord20l:hover {
+    background-position: -123px -33px;
+}
+
+.jssord20r:hover {
+    background-position: -183px -33px;
+}
+
+.jssord20ldn {
+    background-position: -243px -33px;
+}
+
+.jssord20rdn {
+    background-position: -303px -33px;
+}
