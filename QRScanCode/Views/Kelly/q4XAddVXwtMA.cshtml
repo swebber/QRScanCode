@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "The Letter I";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="slider1_container" style="position: relative; width: 960px; height: 380px; overflow: hidden;">
+    <!-- Slides Container -->
+    <div u="slides" style="cursor: move; position: absolute; width: 960px; height: 380px; top: 0px; left: 0px; overflow: hidden;">
+        <div><img u="image" src="~/img/i_001.jpg" /></div>
+        <div><img u="image" src="~/img/i_002.jpg" /></div>
+        <div><img u="image" src="~/img/i_003.jpg" /></div>
+        <div><img u="image" src="~/img/i_004.jpg" /></div>
+        <div><img u="image" src="~/img/i_005.jpg" /></div>
+        <div><img u="image" src="~/img/i_006.jpg" /></div>
+        <div><img u="image" src="~/img/i_007.jpg" /></div>
+        <div><img u="image" src="~/img/i_008.gif" /></div>
+        <div><img u="image" src="~/img/i_009.jpg" /></div>
+        <div><img u="image" src="~/img/i_010.jpg" /></div>
+        <div><img u="image" src="~/img/i_011.jpg" /></div>
+    </div>
+    <!-- Direction Navigator Skin Begin -->
+    <!-- Arrow Left -->
+    <span u="arrowleft" class="jssord20l" style="width: 55px; height: 55px; top: 123px; left: 8px;"></span>
+    <!-- Arrow Right -->
+    <span u="arrowright" class="jssord20r" style="width: 55px; height: 55px; top: 123px; right: 8px"></span>
+    <!-- Direction Navigator Skin End -->
+</div>
+
+@section scripts
+{
+    <script src="~/Scripts/slideshow-common.js"></script>
+}

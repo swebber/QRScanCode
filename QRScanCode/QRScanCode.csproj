@@ -215,6 +215,17 @@
     <Content Include="img\dream_005.jpg" />
     <Content Include="img\dream_006.jpg" />
     <Content Include="img\dream_007.jpg" />
+    <Content Include="img\i_001.jpg" />
+    <Content Include="img\i_002.jpg" />
+    <Content Include="img\i_003.jpg" />
+    <Content Include="img\i_004.jpg" />
+    <Content Include="img\i_005.jpg" />
+    <Content Include="img\i_006.jpg" />
+    <Content Include="img\i_007.jpg" />
+    <Content Include="img\i_008.gif" />
+    <Content Include="img\i_009.jpg" />
+    <Content Include="img\i_010.jpg" />
+    <Content Include="img\i_011.jpg" />
     <Content Include="Jssor\img\back.jpg" />
     <Content Include="Jssor\img\browser-icons.png" />
     <Content Include="Jssor\img\close.png" />
@@ -277,6 +288,7 @@
     <Content Include="Scripts\knockout-2.2.0.debug.js" />
     <Content Include="Scripts\knockout-2.2.0.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\slideshow-common.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -292,6 +304,7 @@
     <Content Include="Views\Kelly\Test.cshtml" />
     <Content Include="Views\Kelly\Index.cshtml" />
     <Content Include="Views\Kelly\e7abg784fxBM.cshtml" />
+    <Content Include="Views\Kelly\q4XAddVXwtMA.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
