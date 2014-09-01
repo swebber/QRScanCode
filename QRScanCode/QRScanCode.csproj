@@ -198,6 +198,14 @@
     <Content Include="img\a\a_006.jpg" />
     <Content Include="img\a\a_007.png" />
     <Content Include="img\a\a_008.jpg" />
+    <Content Include="img\better\better-001.gif" />
+    <Content Include="img\better\better-002.png" />
+    <Content Include="img\better\better-003.jpg" />
+    <Content Include="img\better\better-004.jpg" />
+    <Content Include="img\better\better-005.jpg" />
+    <Content Include="img\better\better-006.jpg" />
+    <Content Include="img\better\better-007.png" />
+    <Content Include="img\better\better-008.png" />
     <Content Include="img\chickens_001.jpg" />
     <Content Include="img\chickens_002.jpg" />
     <Content Include="img\chickens_003.jpg" />
@@ -313,6 +321,7 @@
     <Content Include="Views\Kelly\WW5Xi3HTJW3Q.cshtml" />
     <Content Include="Views\Kelly\ScWB4wmDo3CG.cshtml" />
     <Content Include="Views\Kelly\tgptTLsrFBZZ.cshtml" />
+    <Content Include="Views\Kelly\ZlAWfcYou2S8.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
