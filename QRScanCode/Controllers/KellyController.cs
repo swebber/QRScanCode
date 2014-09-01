@@ -40,5 +40,10 @@ namespace QRScanCode.Controllers
         {
             return View();
         }
+
+        public ActionResult tgptTLsrFBZZ()
+        {
+            return View();
+        }
     }
 }

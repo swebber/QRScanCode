@@ -190,6 +190,14 @@
     <Content Include="Bootstrap\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="Bootstrap\fonts\glyphicons-halflings-regular.woff" />
     <None Include="Properties\PublishProfiles\*" />
+    <Content Include="img\a\a_001.jpg" />
+    <Content Include="img\a\a_002.jpg" />
+    <Content Include="img\a\a_003.jpg" />
+    <Content Include="img\a\a_004.png" />
+    <Content Include="img\a\a_005.jpg" />
+    <Content Include="img\a\a_006.jpg" />
+    <Content Include="img\a\a_007.png" />
+    <Content Include="img\a\a_008.jpg" />
     <Content Include="img\chickens_001.jpg" />
     <Content Include="img\chickens_002.jpg" />
     <Content Include="img\chickens_003.jpg" />
@@ -304,6 +312,7 @@
     <Content Include="Views\Kelly\q4XAddVXwtMA.cshtml" />
     <Content Include="Views\Kelly\WW5Xi3HTJW3Q.cshtml" />
     <Content Include="Views\Kelly\ScWB4wmDo3CG.cshtml" />
+    <Content Include="Views\Kelly\tgptTLsrFBZZ.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
