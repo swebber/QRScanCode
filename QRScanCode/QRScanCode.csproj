@@ -238,6 +238,14 @@
     <Content Include="img\of_004.jpg" />
     <Content Include="img\of_005.jpg" />
     <Content Include="img\of_006.jpg" />
+    <Content Include="img\where\where-001.jpg" />
+    <Content Include="img\where\where-002.jpg" />
+    <Content Include="img\where\where-003.jpg" />
+    <Content Include="img\where\where-004.jpg" />
+    <Content Include="img\where\where-005.jpg" />
+    <Content Include="img\where\where-006.png" />
+    <Content Include="img\where\where-007.png" />
+    <Content Include="img\where\where-008.jpg" />
     <Content Include="img\world\world-001.jpg" />
     <Content Include="img\world\world-002.jpg" />
     <Content Include="img\world\world-003.jpg" />
@@ -331,6 +339,7 @@
     <Content Include="Views\Kelly\tgptTLsrFBZZ.cshtml" />
     <Content Include="Views\Kelly\ZlAWfcYou2S8.cshtml" />
     <Content Include="Views\Kelly\aq0OjEQ9rtbE.cshtml" />
+    <Content Include="Views\Kelly\CgynSwPnC4ip.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
