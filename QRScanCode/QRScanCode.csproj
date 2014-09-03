@@ -206,6 +206,14 @@
     <Content Include="img\better\better-006.jpg" />
     <Content Include="img\better\better-007.png" />
     <Content Include="img\better\better-008.png" />
+    <Content Include="img\can\can-001.png" />
+    <Content Include="img\can\can-002.png" />
+    <Content Include="img\can\can-003.jpg" />
+    <Content Include="img\can\can-004.jpg" />
+    <Content Include="img\can\can-005.jpg" />
+    <Content Include="img\can\can-006.jpg" />
+    <Content Include="img\can\can-007.jpg" />
+    <Content Include="img\can\can-008.jpg" />
     <Content Include="img\chickens_001.jpg" />
     <Content Include="img\chickens_002.jpg" />
     <Content Include="img\chickens_003.jpg" />
@@ -340,6 +348,7 @@
     <Content Include="Views\Kelly\ZlAWfcYou2S8.cshtml" />
     <Content Include="Views\Kelly\aq0OjEQ9rtbE.cshtml" />
     <Content Include="Views\Kelly\CgynSwPnC4ip.cshtml" />
+    <Content Include="Views\Kelly\s5pFl7sj1noB.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
