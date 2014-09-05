@@ -222,6 +222,14 @@
     <Content Include="img\chickens_006.jpg" />
     <Content Include="img\chickens_007.jpg" />
     <Content Include="img\chickens_008.jpg" />
+    <Content Include="img\cross\cross-001.jpg" />
+    <Content Include="img\cross\cross-002.jpg" />
+    <Content Include="img\cross\cross-003.jpg" />
+    <Content Include="img\cross\cross-004.jpg" />
+    <Content Include="img\cross\cross-005.jpg" />
+    <Content Include="img\cross\cross-006.jpg" />
+    <Content Include="img\cross\cross-007.jpg" />
+    <Content Include="img\cross\cross-008.jpg" />
     <Content Include="img\dream_001.jpg" />
     <Content Include="img\dream_002.jpg" />
     <Content Include="img\dream_003.jpg" />
@@ -349,6 +357,7 @@
     <Content Include="Views\Kelly\aq0OjEQ9rtbE.cshtml" />
     <Content Include="Views\Kelly\CgynSwPnC4ip.cshtml" />
     <Content Include="Views\Kelly\s5pFl7sj1noB.cshtml" />
+    <Content Include="Views\Kelly\fnUukBjEgd2w.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -65,5 +65,10 @@ namespace QRScanCode.Controllers
         {
             return View();
         }
+
+        public ActionResult fnUukBjEgd2w()
+        {
+            return View();
+        }
     }
 }
