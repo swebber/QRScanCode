@@ -254,6 +254,14 @@
     <Content Include="img\of_004.jpg" />
     <Content Include="img\of_005.jpg" />
     <Content Include="img\of_006.jpg" />
+    <Content Include="img\roads\roads-001.jpg" />
+    <Content Include="img\roads\roads-002.jpg" />
+    <Content Include="img\roads\roads-003.jpg" />
+    <Content Include="img\roads\roads-004.jpg" />
+    <Content Include="img\roads\roads-005.jpg" />
+    <Content Include="img\roads\roads-006.jpg" />
+    <Content Include="img\roads\roads-007.jpg" />
+    <Content Include="img\roads\roads-008.jpg" />
     <Content Include="img\where\where-001.jpg" />
     <Content Include="img\where\where-002.jpg" />
     <Content Include="img\where\where-003.jpg" />
@@ -358,6 +366,7 @@
     <Content Include="Views\Kelly\CgynSwPnC4ip.cshtml" />
     <Content Include="Views\Kelly\s5pFl7sj1noB.cshtml" />
     <Content Include="Views\Kelly\fnUukBjEgd2w.cshtml" />
+    <Content Include="Views\Kelly\HmdEZj8dR6wr.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
