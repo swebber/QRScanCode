@@ -270,6 +270,14 @@
     <Content Include="img\where\where-006.png" />
     <Content Include="img\where\where-007.png" />
     <Content Include="img\where\where-008.jpg" />
+    <Content Include="img\without\without-001.jpg" />
+    <Content Include="img\without\without-002.jpg" />
+    <Content Include="img\without\without-003.jpg" />
+    <Content Include="img\without\without-004.png" />
+    <Content Include="img\without\without-005.jpg" />
+    <Content Include="img\without\without-006.jpg" />
+    <Content Include="img\without\without-007.jpg" />
+    <Content Include="img\without\without-008.png" />
     <Content Include="img\world\world-001.jpg" />
     <Content Include="img\world\world-002.jpg" />
     <Content Include="img\world\world-003.jpg" />
@@ -367,6 +375,7 @@
     <Content Include="Views\Kelly\s5pFl7sj1noB.cshtml" />
     <Content Include="Views\Kelly\fnUukBjEgd2w.cshtml" />
     <Content Include="Views\Kelly\HmdEZj8dR6wr.cshtml" />
+    <Content Include="Views\Kelly\DZtN3ckzFeYn.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
