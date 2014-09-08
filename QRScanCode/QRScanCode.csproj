@@ -237,6 +237,12 @@
     <Content Include="img\dream_005.jpg" />
     <Content Include="img\dream_006.jpg" />
     <Content Include="img\dream_007.jpg" />
+    <Content Include="img\having\having-001.png" />
+    <Content Include="img\having\having-002.jpg" />
+    <Content Include="img\having\having-003.jpg" />
+    <Content Include="img\having\having-004.jpg" />
+    <Content Include="img\having\having-005.jpg" />
+    <Content Include="img\having\having-006.png" />
     <Content Include="img\i_001.jpg" />
     <Content Include="img\i_002.jpg" />
     <Content Include="img\i_003.jpg" />
@@ -376,6 +382,7 @@
     <Content Include="Views\Kelly\fnUukBjEgd2w.cshtml" />
     <Content Include="Views\Kelly\HmdEZj8dR6wr.cshtml" />
     <Content Include="Views\Kelly\DZtN3ckzFeYn.cshtml" />
+    <Content Include="Views\Kelly\o2UfBxoRVWzX.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
